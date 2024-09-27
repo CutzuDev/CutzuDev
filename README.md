@@ -8,7 +8,7 @@
 <div align="center">
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/cutzugfx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-farkas-1480b6242/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cutzusd) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-farkas-1480b6242/)
 
 </div>  
 
@@ -27,12 +27,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CutzuDev&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>  
-
----
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=xh1mgxblbueff9qwhmypai0zb&cover_image=true&theme=default" /></div>  
-
----
 
 <div align="center">
 
